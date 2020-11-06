@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Re-using Layouts</string>
+    <string name="nav_header_title">fad.e-formation.tn</string>
+    <string name="nav_header_subtitle">Plateforme EAD</string>
+    <string name="nav_header_desc">logo e fad formation</string>
+    <string name="buttomAdd">Add</string>
+    <string name="buttomDelete">Delete</string>
+
+</resources>
